@@ -1,0 +1,13 @@
+.row--45{
+    margin-left: -45px;
+    margin-right: -45px;
+}
+/* @media (max-width: 768px) {
+    .response{
+        margin-top: 350px;
+        align-items: center;
+    }
+    .mt{
+        margin-top: 20px;
+    }
+} */
