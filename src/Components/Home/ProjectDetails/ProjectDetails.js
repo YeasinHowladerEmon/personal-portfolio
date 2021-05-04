@@ -62,7 +62,7 @@ const ProjectDetails = () => {
             <h2 className="text-center mb-5 pt-5">My Project </h2>
         </div>
             <Container fluid  id="cards_landscape_wrap-2" className=" d-flex justify-content-center" >
-                <Row  className="containers w-75">
+                <Row  className="containers w-75 align-items-center">
                     {
                         projectDetails.map(project => <ProjectMore project={project}></ProjectMore>)
                     }

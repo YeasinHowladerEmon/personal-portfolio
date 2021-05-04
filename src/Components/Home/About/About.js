@@ -8,7 +8,7 @@ import image2 from '../../../Images/IMG_20200928_134428.jpg'
 const About = () => {
     return (
         <>
-            <Container id="About" fluid style={{ height: "1000px" }}>
+            <Container id="About" fluid style={{ height: "1100px" }}>
                 <h1 style={{ fontSize: '60px', textAlign: 'center', marginTop: '100px' }}>About</h1>
                 <Row className=" align-items-center justify-content-center ">
                     <Col lg={4} className="mt-5">
@@ -49,7 +49,7 @@ const About = () => {
                             <h5 className="">My name is Yeasin Howlader Emon. I am a Web Developer, and I'm very passionate and dedicated to my work.
                             With 6 months dedicated work a junior Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.</h5>
                             <br />
-                            <a className="btn btn-primary" href="http://" target="_blank" rel="noopener noreferrer">Download CV</a>
+                            <a  href="https://drive.google.com/file/d/1KoQbLWEVPYsJtj6XKjmkcO46lU9sSvZl/view"><button className="grow_skew_forward">Download CV</button></a>
                         </Slide>
                     </Col>
                 </Row>

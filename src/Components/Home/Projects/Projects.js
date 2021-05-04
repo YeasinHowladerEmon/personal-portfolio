@@ -52,6 +52,7 @@ const Projects = () => {
         <br/><br/>
                  {/* <center><Link className=" mt-3" to="/work">See More</Link></center> */}
         </div>
+        
     );
 };
 

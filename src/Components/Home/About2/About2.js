@@ -5,7 +5,7 @@ import { faMobile } from '@fortawesome/free-solid-svg-icons'
 import { Col, Container, Row } from 'react-bootstrap';
 const About2 = () => {
     return (
-             <Container fluid  style={{ height: "500px" }} className="response mt-5 pt-5  align-items-center ">
+             <Container fluid  style={{ height: "auto" }} className="response mt-5 pt-5  align-items-center ">
             <Row className="row--45 d-flex justify-content-center">
                     <Col lg={3} md={6} sm={12}>
                        <div style={{display: "flex"}}>
